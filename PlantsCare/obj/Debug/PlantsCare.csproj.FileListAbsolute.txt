@@ -1,0 +1,30 @@
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe.config
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.pdb
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csprojResolveAssemblyReference.cache
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Form1.resources
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Properties.Resources.resources
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csproj.GenerateResource.Cache
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.exe
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.pdb
+c:\users\jair\documents\visual studio 2012\Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Menu.resources
+E:\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe.config
+E:\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe
+E:\PlantsCare\PlantsCare\bin\Debug\PlantsCare.pdb
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csprojResolveAssemblyReference.cache
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Form1.resources
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Menu.resources
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Properties.Resources.resources
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csproj.GenerateResource.Cache
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.exe
+E:\PlantsCare\PlantsCare\obj\Debug\PlantsCare.pdb
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe.config
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.exe
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\bin\Debug\PlantsCare.pdb
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csprojResolveAssemblyReference.cache
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Form1.resources
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Menu.resources
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.Properties.Resources.resources
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.csproj.GenerateResource.Cache
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.exe
+C:\Users\Vinnitsa\Documents\SharpDevelop Projects\PlantsCare\PlantsCare\obj\Debug\PlantsCare.pdb
